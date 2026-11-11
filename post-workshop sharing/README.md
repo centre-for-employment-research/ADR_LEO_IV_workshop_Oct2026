@@ -24,7 +24,7 @@ The snippets expect Stata files built earlier in the project. File names in the 
 | Demographics file | Prior attainment, FSM, SEN, gender, ethnicity, region | National Pupil Database (School Census and attainment) |
 | Area lookups | 2011 rural-urban classification and household income decile by MSOA | ONS open data, brought into the SRS |
 
-FFT Education Datalab's scripts for loading LEO tables are published separately: *[add link to the Datalab repository]*.
+FFT Education Datalab's scripts for loading LEO tables are published separately: [github.com/Youth-Transitions/resources](https://github.com/Youth-Transitions/resources).
 
 ## Requirements
 
