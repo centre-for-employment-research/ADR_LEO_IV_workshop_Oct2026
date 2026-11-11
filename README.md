@@ -6,6 +6,5 @@ The session will be led by Professor Peter Urwin and focus on practical insights
 
 ## Contents
 
-- [`ADR_LEO_IV_workshop_22Oct2026_slides.pptx`](ADR_LEO_IV_workshop_22Oct2026_slides.pptx): workshop slides (PowerPoint)
-- [`ADR_LEO_IV_workshop_22Oct2026_slides.pdf`](ADR_LEO_IV_workshop_22Oct2026_slides.pdf): the same slides as a PDF
+- [`ADR_LEO_IV_workshop_22Oct2026_slides.pdf`](ADR_LEO_IV_workshop_22Oct2026_slides.pdf): workshop slides
 - [`post-workshop sharing/`](post-workshop%20sharing/): Stata code snippets for the IV analysis, with their own README
